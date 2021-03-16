@@ -9,10 +9,20 @@
 ## Table of Contents
 
 * [Deep Learning Free Courses](#deep-learning-free-courses)
+
 * [Neural Networks](#neural-networks)
+  * [Books on NN](#books-on-nn)
+  * [Blog Posts/Articles on NN](#blog-posts-or-articles-on-nn)
+  * [Youtube Videos on NN](#youtube-videos-on-nn)
+
+* [Recurrent Neural Networks](#recurrent-neural-networks)
+  * [Youtube Videos on RNN](#youtube-videos-on-rnn)
+
 * [StackExchange Questions](#stackexchange-questions)
   * [Activation functions](#activation-functions)
+
 * [Twitter handles of influential people in AI](#Twitter-handles-of-influential-people-in-AI)
+
 * [Noteworthy Github Repos which include AI resources](#Noteworthy-github-repos-which-curate-ai-resources)
 
 ___
@@ -25,10 +35,26 @@ ___
 
 ### Neural Networks
 
-* [Book (Free to read): Neural Networks and Deep Learning by Michael A. Nielson](http://neuralnetworksanddeeplearning.com/)
+#### Books on NN
+
+* [(Free to read) Neural Networks and Deep Learning by Michael A. Nielson](http://neuralnetworksanddeeplearning.com/)
+
+#### Blog Posts or Articles on NN
+
 * [Backpropogation for dummies](https://codesachin.wordpress.com/2015/12/06/backpropagation-for-dummies/)
 * [The Complete Guide to Artificial Neural Networks: Concepts and Models by missinglink.ai](https://missinglink.ai/guides/neural-network-concepts/complete-guide-artificial-neural-networks/)
+
+#### Youtube Videos on NN
+
 * [Youtube playlist by 3Blue1Brown on neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi "Neural Networks by 3Blue1Brown")
+
+___
+
+### Recurrent Neural Networks
+
+#### Youtube Videos on RNN
+
+* [A friendly introduction to Recurrent Neural Networks](https://www.youtube.com/watch?v=UNmqTiOnRfg&ab_channel=LuisSerrano)
 
 ___
 
@@ -42,6 +68,9 @@ ___
 
 ### Twitter handles of influential people in AI
 
+* [Andrej Karpathy](https://twitter.com/karpathy)
+* [Andrew Ng](https://twitter.com/AndrewYNg)
+* [Ian Goodfellow](https://twitter.com/goodfellow_ian)
 * [Michael Nielsen](https://twitter.com/michael_nielsen)
 
 ___
