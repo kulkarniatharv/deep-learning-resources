@@ -8,6 +8,8 @@
 
 ## Table of Contents
 
+* [Research Papers](#research-papers)
+
 * [Deep Learning Free Courses](#deep-learning-free-courses)
 
 * [Neural Networks](#neural-networks)
@@ -24,6 +26,12 @@
 * [Twitter handles of influential people in AI](#Twitter-handles-of-influential-people-in-AI)
 
 * [Noteworthy Github Repos which include AI resources](#Noteworthy-github-repos-which-curate-ai-resources)
+
+___
+
+### Research Papers
+
+* [OpenAI all research papers](https://openai.com/papers/)
 
 ___
 
@@ -46,15 +54,20 @@ ___
 
 #### Youtube Videos on NN
 
+* [A friendly introduction to Deep Learning and Neural Networks by Luis Serrano](https://www.youtube.com/watch?v=BR9h47Jtqyw&ab_channel=LuisSerrano)
 * [Youtube playlist by 3Blue1Brown on neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi "Neural Networks by 3Blue1Brown")
 
 ___
 
 ### Recurrent Neural Networks
 
+#### Blog Posts or Articles on RNN
+
+* [Understanding LSTM Networks by Colah](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+
 #### Youtube Videos on RNN
 
-* [A friendly introduction to Recurrent Neural Networks](https://www.youtube.com/watch?v=UNmqTiOnRfg&ab_channel=LuisSerrano)
+* [A friendly introduction to Recurrent Neural Networks Luis Serrano](https://www.youtube.com/watch?v=UNmqTiOnRfg&ab_channel=LuisSerrano)
 
 ___
 
