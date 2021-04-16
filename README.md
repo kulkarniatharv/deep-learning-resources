@@ -12,6 +12,8 @@
 
 * [Deep Learning Free Courses](#deep-learning-free-courses)
 
+* [Deep Learning Books](#deep-learning-books)
+
 * [Neural Networks](#neural-networks)
   * [Books on NN](#books-on-nn)
   * [Blog Posts/Articles on NN](#blog-posts-or-articles-on-nn)
@@ -22,6 +24,7 @@
 
 * [StackExchange Questions](#stackexchange-questions)
   * [Activation functions](#activation-functions)
+  * [Neural networks configuration](#neural-network-configuration)
 
 * [Twitter handles of influential people in AI](#Twitter-handles-of-influential-people-in-AI)
 
@@ -41,6 +44,12 @@ ___
 
 ___
 
+### Deep Learning Books
+
+* [(Free to read) Dive into Deep Learning](https://d2l.ai/)
+
+___
+
 ### Neural Networks
 
 #### Books on NN
@@ -49,7 +58,10 @@ ___
 
 #### Blog Posts or Articles on NN
 
+* [An On-device Deep Neural Network for Face Detection](https://machinelearning.apple.com/research/face-detection)
 * [Backpropogation for dummies](https://codesachin.wordpress.com/2015/12/06/backpropagation-for-dummies/)
+* [Comp.ai.neural-nets FAQ](http://www.faqs.org/faqs/ai-faq/neural-nets/part1/preamble.html)
+* [How Many Hidden Layers/Neurons to Use in Artificial Neural Networks?](https://towardsdatascience.com/beginners-ask-how-many-hidden-layers-neurons-to-use-in-artificial-neural-networks-51466afa0d3e)
 * [The Complete Guide to Artificial Neural Networks: Concepts and Models by missinglink.ai](https://missinglink.ai/guides/neural-network-concepts/complete-guide-artificial-neural-networks/)
 
 #### Youtube Videos on NN
@@ -77,6 +89,10 @@ ___
 
 * [Why ReLU is better than the other activation functions](https://datascience.stackexchange.com/questions/23493/why-relu-is-better-than-the-other-activation-functions)
 
+
+#### Neural networks configuration
+
+* [How to choose the number of hidden layers and nodes in a feedforward neural network?](https://stats.stackexchange.com/questions/181/how-to-choose-the-number-of-hidden-layers-and-nodes-in-a-feedforward-neural-netw)
 ___
 
 ### Twitter handles of influential people in AI
