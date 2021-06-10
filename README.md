@@ -1,4 +1,4 @@
-# Deep Learning Resources
+<!-- # Deep Learning Resources -->
 
 *This list was curated for personal use but then I decided to make it public. This list is an ongoing process and if you wish to contribute, opening a pull request would be a way to go.*
 
@@ -34,7 +34,7 @@ ___
 
 ### Research Papers
 
-* [OpenAI all research papers](https://openai.com/papers/)
+* [OpenAI research papers](https://openai.com/papers/)
 
 ___
 
@@ -62,6 +62,7 @@ ___
 * [Backpropogation for dummies](https://codesachin.wordpress.com/2015/12/06/backpropagation-for-dummies/)
 * [Comp.ai.neural-nets FAQ](http://www.faqs.org/faqs/ai-faq/neural-nets/part1/preamble.html)
 * [How Many Hidden Layers/Neurons to Use in Artificial Neural Networks?](https://towardsdatascience.com/beginners-ask-how-many-hidden-layers-neurons-to-use-in-artificial-neural-networks-51466afa0d3e)
+* [Neural Networks: parameters, hyperparameters and optimization strategies](https://towardsdatascience.com/neural-networks-parameters-hyperparameters-and-optimization-strategies-3f0842fac0a5)
 * [The Complete Guide to Artificial Neural Networks: Concepts and Models by missinglink.ai](https://missinglink.ai/guides/neural-network-concepts/complete-guide-artificial-neural-networks/)
 
 #### Youtube Videos on NN
@@ -89,10 +90,10 @@ ___
 
 * [Why ReLU is better than the other activation functions](https://datascience.stackexchange.com/questions/23493/why-relu-is-better-than-the-other-activation-functions)
 
-
 #### Neural networks configuration
 
 * [How to choose the number of hidden layers and nodes in a feedforward neural network?](https://stats.stackexchange.com/questions/181/how-to-choose-the-number-of-hidden-layers-and-nodes-in-a-feedforward-neural-netw)
+
 ___
 
 ### Twitter handles of influential people in AI
@@ -101,6 +102,7 @@ ___
 * [Andrew Ng](https://twitter.com/AndrewYNg)
 * [Ian Goodfellow](https://twitter.com/goodfellow_ian)
 * [Michael Nielsen](https://twitter.com/michael_nielsen)
+* [Sebastian Raschka](https://twitter.com/rasbt)
 
 ___
 
